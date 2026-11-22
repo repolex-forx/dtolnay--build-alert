@@ -21,6 +21,27 @@
       ],
       "ast": [
         "aggregate/ast/a584969f1949c74cfe24ae829fc46b1f50d2adaa/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a584969f1949c74cfe24ae829fc46b1f50d2adaa.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "syn",
+          "ecosystem": "CARGO",
+          "version": "3",
+          "githubOrg": "dtolnay",
+          "githubRepo": "syn",
+          "githubUrl": "https://github.com/dtolnay/syn",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "termcolor",
+          "ecosystem": "CARGO",
+          "version": "1.1",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "termcolor",
+          "githubUrl": "https://github.com/BurntSushi/termcolor",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
