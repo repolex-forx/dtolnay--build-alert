@@ -42,7 +42,9 @@
           "githubUrl": "https://github.com/BurntSushi/termcolor",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/a584969f1949c74cfe24ae829fc46b1f50d2adaa/chunk-001.nq.gz",
+      "dep": "dep/a584969f1949c74cfe24ae829fc46b1f50d2adaa.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
