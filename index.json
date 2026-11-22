@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "build-alert",
+  "versions": [
+    {
+      "commit": "a584969f1949c74cfe24ae829fc46b1f50d2adaa",
+      "tag": "0.1.8",
+      "parsed_at": "2026-11-22T12:33:05.065631+00:00"
+    }
+  ]
+}
