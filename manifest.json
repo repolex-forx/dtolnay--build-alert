@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "dtolnay",
+  "repo": "build-alert",
+  "versions": [
+    {
+      "commit": "a584969f1949c74cfe24ae829fc46b1f50d2adaa",
+      "parsed_at": "2026-11-22T12:27:30.158770+00:00",
+      "tag": "0.1.8",
+      "filetree": "filetree/a584969f1949c74cfe24ae829fc46b1f50d2adaa.nq.gz",
+      "blobs": [
+        "blob/3281a4d93ab0f0132314bd668884bdd89ab39b2b.nq.gz",
+        "blob/1b5ec8b78e237b5c3b3d812a7c0a6589d0f7161d.nq.gz",
+        "blob/5ac3440c5f7a9b6a695f0a4a39b0b0ad8ae89ef4.nq.gz",
+        "blob/07b395bdbf4f5b6ab0e59fcb05a317b6322c717d.nq.gz",
+        "blob/750707701cdae985156601cc906195021ba6a6e5.nq.gz",
+        "blob/31aa79387f27e730e33d871925e152e35e428031.nq.gz",
+        "blob/9ebc52387101e7326a3c922125e31d30ad2e57f3.nq.gz",
+        "blob/e9e21997b1aca0707f8749ea13c09aec66c899d2.nq.gz",
+        "blob/e6685110a28bd5150fe7fd547a474fa8472d794c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
